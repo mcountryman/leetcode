@@ -1,0 +1,7 @@
+[package]
+name = "leetcode"
+version = "0.1.0"
+
+[[bin]]
+name = "two_sum"
+path = "src/two_sum.rs"
