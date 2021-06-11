@@ -7,5 +7,5 @@ name = "two_sum"
 path = "src/two_sum.rs"
 
 [[bin]]
-name = "string_to_integer"
-path = "src/string_to_integer.rs"
+name = "longest_substring"
+path = "src/longest_substring.rs"
