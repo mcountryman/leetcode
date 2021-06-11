@@ -5,3 +5,7 @@ version = "0.1.0"
 [[bin]]
 name = "two_sum"
 path = "src/two_sum.rs"
+
+[[bin]]
+name = "string_to_integer"
+path = "src/string_to_integer.rs"
